@@ -115,6 +115,9 @@ footer .icons{
     footer{
         margin-left: 350px;
     }
+    footer .address{
+        font-size:7px;
+    }
 
     }
 
